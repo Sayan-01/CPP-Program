@@ -1,5 +1,5 @@
 //=> First element k sorted dhori baki puro ta unsorted dhorbo
-//=> Then unsorted part ar 1st ele k sorted array ar last theke check korbo  
+//=> Then unsorted part ar 1st ele k sorted array part ar last theke check korbo  
 #include <bits/stdc++.h>
 using namespace std;
 

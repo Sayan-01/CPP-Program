@@ -9,7 +9,8 @@ void printArr (int arr[] , int size) {
     cout<<arr[i]<<endl;
   }
   return;
-}
+} 
+
 int main() {
   int arr[] = {2, 6, 12, 8};
   int size = 5;
@@ -31,4 +32,4 @@ int main() {
 }
 
 //=> wrost case -> for desnding order -> no. of operation: n(n-1)/2 -> TC: O(n2), SC: O(1)
- //=> best case -> TC: O(n2), SC: O(1)
+//=> best case -> TC: O(n2), SC: O(1)

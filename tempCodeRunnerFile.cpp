@@ -1,1 +1,0 @@
-  solFuntion(arr, size);
